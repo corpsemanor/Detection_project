@@ -1,0 +1,33 @@
+2024-06-23 03:04:37,689 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:04:41,777 - visualise_script - INFO - visualize.py:57 - Prediction script completed.
+2024-06-23 03:34:57,004 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:35:07,538 - visualise_script - INFO - visualize.py:55 - Prediction script completed.
+2024-06-23 03:35:26,198 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:35:34,725 - visualise_script - INFO - visualize.py:56 - Prediction script completed.
+2024-06-23 03:36:47,573 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:36:54,679 - visualise_script - INFO - visualize.py:56 - Prediction script completed.
+2024-06-23 03:37:19,351 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:37:28,739 - visualise_script - INFO - visualize.py:56 - Prediction script completed.
+2024-06-23 03:40:57,127 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:41:24,962 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:41:31,879 - visualise_script - INFO - visualize.py:52 - Prediction script completed.
+2024-06-23 03:42:33,228 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:42:35,789 - visualise_script - INFO - visualize.py:52 - Prediction script completed.
+2024-06-23 03:42:49,942 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:42:56,073 - visualise_script - INFO - visualize.py:52 - Prediction script completed.
+2024-06-23 03:43:13,040 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:43:17,926 - visualise_script - INFO - visualize.py:53 - Prediction script completed.
+2024-06-23 03:43:34,148 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:43:40,870 - visualise_script - INFO - visualize.py:53 - Prediction script completed.
+2024-06-23 03:45:37,646 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:45:44,600 - visualise_script - INFO - visualize.py:57 - Prediction script completed.
+2024-06-23 03:47:56,638 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:49:08,722 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:49:10,828 - visualise_script - INFO - visualize.py:59 - Visualization saved to ../visualization\visualized_00028607_000.png
+2024-06-23 03:49:16,156 - visualise_script - INFO - visualize.py:66 - Prediction script completed.
+2024-06-23 03:51:19,159 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 03:51:21,269 - visualise_script - INFO - visualize.py:60 - Visualization saved to ../visualization\visualized_00028607_000.png
+2024-06-23 03:51:24,383 - visualise_script - INFO - visualize.py:67 - Prediction script completed.
+2024-06-23 04:01:49,709 - visualise_script - INFO - visualize.py:15 - Starting prediction script for image: ..\data\CXR8\images\images\00028607_000.png
+2024-06-23 04:01:51,438 - visualise_script - INFO - visualize.py:60 - Visualization saved to ../visualization\visualized_00028607_000.png
+2024-06-23 04:01:54,936 - visualise_script - INFO - visualize.py:67 - Prediction script completed.
