@@ -1,5 +1,7 @@
 import sys
-sys.path.append('../src')
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from src.evaluate import evaluate_model
 
 if __name__ == "__main__":

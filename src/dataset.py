@@ -51,3 +51,6 @@ class ChestXrayDataset(Dataset):
             image = self.transform(image)
 
         return image, target
+
+    def get_label_map(self):
+        return {v: k for k, v in self.label_map.items()}
